@@ -17,6 +17,7 @@
     "commander": "^10.0.1",
     "config": "~3.3",
     "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "csv-parse": "~4",
     "csv-stringify": "~5",
     "digest-stream": "~2",
